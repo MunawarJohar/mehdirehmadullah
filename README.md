@@ -1,3 +1,4 @@
+<!--
 # 👨‍💼 Mehedi, Md Rahmath Ullah
 ![mehdi](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/aaba3ad4-aefc-4b83-a200-8b7f766e4245)
 
@@ -114,4 +115,12 @@ October 2019 - May 2022
 - Gained an understanding of the purpose of a Run Sheet and how to develop one using Microsoft Excel.
 
 ---
+-->
+![Presentation-1](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/e1354739-98e4-48cc-b1be-5da6cf3eb18f)
+![Presentation-2](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/cfd96105-6ac9-4226-8fea-f091cad16284)
+![Presentation-3](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/6e322fa2-02ac-4fb2-859c-d6724e888273)
+![Presentation-4](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/f8547693-c1c1-42a6-af1b-658257cbeb8b)
+![Presentation-5](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/938e1964-b1a4-49b5-8679-ff7cd4847059)
+![Presentation-6](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/6a0dc230-e958-4de3-8c3a-b581d56ca0f5)
+![Presentation-7](https://github.com/MunawarJohar/mehdirehmadullah/assets/106137102/5669d240-7881-4ac2-8e0c-52b721542d3a)
 
